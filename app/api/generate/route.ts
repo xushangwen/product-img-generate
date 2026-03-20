@@ -32,6 +32,8 @@ EXCEPTION: If the input image is extremely blurry or unclear where the product s
 
 3. LIGHTING: Apply professional three-point studio lighting. Highlights should naturally reveal the product's material and surface texture. Shadows should be soft and minimal, appropriate for a clean catalog image.
 
+METAL SURFACES (ESPECIALLY STAINLESS STEEL): Pay extreme attention to metallic material rendering. For stainless steel and other metals: create subtle, controlled specular highlights that show the metal's reflective quality without overwhelming hotspots. Preserve brushed/polished texture details. Ensure accurate metallic sheen and proper reflection of the studio environment. The metal should look convincingly real with proper material properties.
+
 4. IMAGE QUALITY: Crisp, sharp focus across the entire product. Zero noise. Maximum detail preservation. Photorealistic rendering indistinguishable from a professional camera capture.
 
 5. COMPOSITION: Center the product within the frame. Leave balanced neutral space around all sides. Use a horizontal 5:3 aspect ratio (landscape orientation).
