@@ -39,7 +39,7 @@ STRICT REQUIREMENTS — follow every point exactly:
 Output exactly one photorealistic image meeting all requirements above.`;
 
     const response = await ai.models.generateContent({
-      model: "gemini-3.1-flash-image-preview",
+      model: "gemini-3-pro-image-preview",
       contents: [
         {
           parts: [
