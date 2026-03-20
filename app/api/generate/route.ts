@@ -26,6 +26,8 @@ STRICT REQUIREMENTS — follow every point exactly:
 
 1. PRODUCT FIDELITY (MOST IMPORTANT): The product in your output must be IDENTICAL to the input image in every detail — shape, structure, components, labels, colors, proportions, textures, and design. Do NOT invent, add, remove, or modify ANY part of the product. This is a retouching job, not a creative redesign.
 
+EXCEPTION: If the input image is extremely blurry or unclear where the product structure cannot be discerned, you may use your knowledge of mechanical/industrial equipment to reasonably infer and complete the missing structural details. However, stay faithful to the visible elements and overall product category.
+
 2. BACKGROUND: Replace the entire background with a clean, uniform light gray (#EBEBEB). The background must be flat and smooth — no gradients, no textures, no reflections on the background surface.
 
 3. LIGHTING: Apply professional three-point studio lighting. Highlights should naturally reveal the product's material and surface texture. Shadows should be soft and minimal, appropriate for a clean catalog image.
